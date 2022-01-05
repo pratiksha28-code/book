@@ -1,0 +1,14 @@
+.background{
+    background: url("../../images/b4.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+.p{
+    text-align: center;
+    color: rebeccapurple;
+    font-style: italic;
+    text-shadow: slateblue;
+    
+}
